@@ -1,6 +1,9 @@
 {
   "name": "lumos-tree",
   "version": "1.0.0",
+  "engines": {
+    "node": "9.2.1"
+  },
   "description": "tree web interface",
   "main": "app.js",
   "scripts": {
